@@ -12,7 +12,6 @@ function cleanupString(string){
     return cleanedString;
 }
 
-
 function palindromeCheck(string){
 
     cleanedString = cleanupString(string);
