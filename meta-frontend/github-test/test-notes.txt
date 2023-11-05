@@ -1,0 +1,2 @@
+This is my test notes file, just doing this to practice command line and github
+
