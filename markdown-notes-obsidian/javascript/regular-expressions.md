@@ -2,7 +2,7 @@
 ## Common use cases:
 
 1. Validate text for user input
-2. Search through text
+2. Search through text for specific characters or character sequences
 
 >[!warning]
 >Notoriously difficult to read due to it sometimes looking like a pile of gibberish
@@ -48,7 +48,7 @@ Regular expressions allow you to define patterns for matching characters or sequ
     Example: `/9\+9/` matches '9+9' in a string.
     
 
-## Common Regex Methods in JavaScript
+## Common Regex use cases in JavaScript
 
 #### 1. `test()`: Checks if a string matches a regex pattern.
 
