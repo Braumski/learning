@@ -3,7 +3,7 @@ ___
 
 see also [version control](version-control-notes.md)
 
-Comments in Javascript are a great step in the right direction. They allow team members to know what the expected outcomes of a given piece of code are. But there is a better alternative, writing **Tests**. 
+Comments in JavaScript are a great step in the right direction. They allow team members to know what the expected outcomes of a given piece of code are. But there is a better alternative, writing **Tests**. 
 
 Tests are like comments, because they describe expectations. But the great thing about tests is that they can be executed/tested. **JEST** is an example of a testing framework. When tests fail ⛔ you say that they are red, and when they pass 🟢, you say they are green. If a test fails, then it's a sign that we need to write the code in such a way that it passes it's test. Once it passes we need to improve both the app's code and the test code, but without changing the behavior of either. This is known as **refactoring**.
 

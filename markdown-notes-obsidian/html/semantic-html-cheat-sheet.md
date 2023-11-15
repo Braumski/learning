@@ -1,6 +1,6 @@
 # Semantic HTML Cheat Sheet
 
-There are hundreds of [semantics-and-meta-tags](semantics-and-meta-tags.md) available to help describe the meaning of your HTML documents. Below is a cheat sheet with some of the most common ones you’ll use in this course and in your development career.
+There are hundreds of [semantics-and-meta-tags 1](semantics-and-meta-tags%201.md) available to help describe the meaning of your HTML documents. Below is a cheat sheet with some of the most common ones you’ll use in this course and in your development career.
 ```html
 
 Sectioning tags
